@@ -1,0 +1,12 @@
+# Robots.txt for Manish Builders
+# https://www.manishbuilders.com/
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# XML Sitemap
+Sitemap: https://www.manishbuilders.com/sitemap.xml
+
